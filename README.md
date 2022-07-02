@@ -9,7 +9,11 @@ The purpose of project was to help Jennifer analyze reviews written by members o
   
   In total there were 82 Vine Reviews in the Automotive dataset and 24,742 non-Vine reviews as seen by the "count" row in each table below.
   
+  **Paid**
+  
   ![](https://github.com/NRFlood/Amazon-Vine-Analysis/blob/main/Paid.PNG)
+  
+  **Unpaid**
   
   ![](https://github.com/NRFlood/Amazon-Vine-Analysis/blob/main/Unpaid.PNG)
 
